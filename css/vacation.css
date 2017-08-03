@@ -19,26 +19,14 @@ body {
 }
 
 #landscape {
-  margin-top: 10px;
+  margin-top: 60px;
   width: 100%;
-}
-
-#threePics {
-  text-align: center;
-}
-
-#smallPic {
-  border-style: solid;
-  border-color: #000;
-  border-width: 5px;
-  width: 20vw;
-  margin: 20px;
 }
 
 footer {
   background-color: #000;
   overflow: hidden;
-  //position: fixed;
+  position: fixed;
   width: 100%;
   bottom: 0;
 }
