@@ -1,15 +1,26 @@
 @font-face {font-family: dune; src: url('dune.ttf'); }
 
 .jumbotron {
+  background-image: url(stars.jpg);
   font-family: dune;
-  background-color: #000;
+  //background-color: #000;
   color: #6D7DA1;
   padding: 20px 80px;
 }
 
 .jumbotron img {
   float: right;
-  margin-top: -160px;
+  margin-top: -12%;
+  margin-bottom: 0.5%; 
+  width: 20%;
+}
+
+.jumbotron h1 {
+  font-size: 4vw;
+}
+
+.jumbotron h3 {
+  font-size: 1.7vw;
 }
 
 body {
@@ -40,7 +51,7 @@ p {
 }
 
 footer {
-  background-color: #000;
+  background-image: url(stars.jpg);
   overflow: hidden;
   //position: fixed;
   width: 100%;
