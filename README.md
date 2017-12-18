@@ -1,8 +1,8 @@
 # dune
 #### A travel site for Arrakis, the desert planet featured in Frank Herbert's Dune series. 
 #### Designed by Sarah Lindmar and David Hale
-Created 08.04.2017
-Last Modified 12.17.2017
+* Created 08.04.2017
+* Last Modified 12.17.2017
 
 # Setup
 1. Clone this repository
